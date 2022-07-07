@@ -19,6 +19,3 @@ CSS
 1. Faça um quadro
 2. Faça uma animação de mudança de quadrado
 3. insira animação no quadrado
-1. Faça um quadro
-2. Faça uma animação de mudança de quadrado
-3. insira animação no quadrado
